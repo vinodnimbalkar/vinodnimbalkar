@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Vinod Nimbalkar
+<img src="https://d26aqo05ggejx9.cloudfront.net/ex-xit.gif" rel="noreferrer noopener" width="100%" height="460px"/>
 
 <!--
 **vinodnimbalkar/vinodnimbalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
