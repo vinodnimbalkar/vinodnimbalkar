@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Vinod Nimbalkar
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vinod Nimbalkar
+=====================================================================================================================================
 <img src="https://vimgif.vercel.app/api" rel="noreferrer noopener" width="100%" height="460px"/>
 
 <!--
@@ -7,7 +8,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Nodejs, Python, Svelte
-- 🌱 I’m currently learning GraphQL
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,7 +17,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Nodejs, Python, Svelte
-- 🌱 I’m currently learning GraphQL
 - 📫 How to reach me: `omvinod at yahoo dot com`
 - 😄 Pronouns: He/Him
 
